@@ -11,8 +11,8 @@ Numpy and Pandas Basics for reference
   <h1>NumPy and Pandas Basics</h1>
   <p>This repository contains a number of Python files and Jupyter notebooks that demonstrate the basics of NumPy and Pandas. The files are organized into the following directories:</p>
   <ul>
-    <li><strong>numpy</strong>: This directory contains files that demonstrate the basics of NumPy, such as creating and manipulating arrays, performing mathematical operations on arrays, and working with functions.</li>
-    <li><strong>pandas</strong>: This directory contains files that demonstrate the basics of Pandas, such as reading and writing data, filtering and aggregating data, and plotting data.</li>
+    <li><strong>numpy</strong>: Demonstrate the basics of NumPy, such as creating and manipulating arrays, performing mathematical operations on arrays, and working with functions.</li>
+    <li><strong>pandas</strong>: Demonstrate the basics of Pandas, such as reading and writing data, filtering and aggregating data, and plotting data.</li>
   </ul>
   <p>To get started, you will need to install Python and the NumPy and Pandas libraries. Once you have installed the libraries, you can open the Jupyter notebook viewer and navigate to the directory containing the notebooks. You can then open the notebooks and run the code to see how NumPy and Pandas work.</p>
   <p>The following Python libraries are required to run the code in this repository:</p>
